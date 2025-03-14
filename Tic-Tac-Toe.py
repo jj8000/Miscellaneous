@@ -31,7 +31,9 @@ def victory():
     else:
         return None
 
-
+print(" 1 | 2 | 3\n"
+        " 4 | 5 | 6\n"
+        " 7 | 8 | 9\n")
 while True:
     while True:
         try:
